@@ -12,8 +12,20 @@ END_VAR
     <Implementation>
       <ST><![CDATA[]]></ST>
     </Implementation>
+    <Method Name="M_Test" Id="{1f305778-8145-43f9-93e1-f6337ff24382}">
+      <Declaration><![CDATA[METHOD M_Test : BOOL
+VAR_INPUT
+END_VAR
+]]></Declaration>
+      <Implementation>
+        <ST><![CDATA[//////////////add test here///////////////////////////]]></ST>
+      </Implementation>
+    </Method>
     <LineIds Name="FB_A20">
       <LineId Id="9" Count="0" />
+    </LineIds>
+    <LineIds Name="FB_A20.M_Test">
+      <LineId Id="5" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>
