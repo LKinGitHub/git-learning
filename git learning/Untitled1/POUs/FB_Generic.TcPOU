@@ -12,8 +12,20 @@ END_VAR
     <Implementation>
       <ST><![CDATA[]]></ST>
     </Implementation>
+    <Method Name="M_reset" Id="{ad4fd229-39b4-463c-aa80-3ba7b32291d6}">
+      <Declaration><![CDATA[METHOD M_reset : BOOL
+VAR_INPUT
+END_VAR
+]]></Declaration>
+      <Implementation>
+        <ST><![CDATA[]]></ST>
+      </Implementation>
+    </Method>
     <LineIds Name="FB_Generic">
       <LineId Id="9" Count="0" />
+    </LineIds>
+    <LineIds Name="FB_Generic.M_reset">
+      <LineId Id="5" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>
