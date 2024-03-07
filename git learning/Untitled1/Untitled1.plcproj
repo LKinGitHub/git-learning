@@ -23,6 +23,9 @@
     <Compile Include="POUs\FB_A10.TcPOU">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="POUs\FB_A20.TcPOU">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="POUs\FB_Generic.TcPOU">
       <SubType>Code</SubType>
     </Compile>

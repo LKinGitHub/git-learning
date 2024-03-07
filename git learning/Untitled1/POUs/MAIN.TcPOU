@@ -6,6 +6,7 @@ VAR
 	a10	: BOOL;
 	a20	: BOOL;
 	fb_a10	:FB_A10;
+	fb_a20	: FB_A20;
 END_VAR
 ]]></Declaration>
     <Implementation>
