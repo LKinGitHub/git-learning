@@ -12,6 +12,15 @@ END_VAR
     <Implementation>
       <ST><![CDATA[]]></ST>
     </Implementation>
+    <Method Name="M_Execute" Id="{024bf813-14fe-48ca-a872-798b2f543621}">
+      <Declaration><![CDATA[METHOD M_Execute : BOOL
+VAR_INPUT
+END_VAR
+]]></Declaration>
+      <Implementation>
+        <ST><![CDATA[]]></ST>
+      </Implementation>
+    </Method>
     <Method Name="M_reset" Id="{29fb3e66-dea3-478b-9f0c-92be7a310a7e}">
       <Declaration><![CDATA[METHOD M_reset : BOOL
 VAR_INPUT
@@ -23,6 +32,9 @@ END_VAR
     </Method>
     <LineIds Name="FB_A10">
       <LineId Id="9" Count="0" />
+    </LineIds>
+    <LineIds Name="FB_A10.M_Execute">
+      <LineId Id="5" Count="0" />
     </LineIds>
     <LineIds Name="FB_A10.M_reset">
       <LineId Id="5" Count="0" />
