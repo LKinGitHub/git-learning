@@ -15,6 +15,11 @@
               <v n="TextDefault">"TEXT"</v>
               <l n="LanguageTexts" t="ArrayList" />
             </o>
+            <o>
+              <v n="TextID">"328"</v>
+              <v n="TextDefault">"VISU_MAIN"</v>
+              <l n="LanguageTexts" t="ArrayList" />
+            </o>
           </l>
           <l n="Languages" t="ArrayList" />
           <v n="GuidInit">{be9f66dc-0ec9-4cfe-bbb6-836508828cf7}</v>
