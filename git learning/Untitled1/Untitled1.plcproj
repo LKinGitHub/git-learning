@@ -42,6 +42,13 @@
     <Compile Include="视图管理器.TcVMO">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="VISUs\visu_a20.TcVIS">
+      <SubType>Code</SubType>
+      <DependentUpon>视图管理器.TcVMO</DependentUpon>
+    </Compile>
+    <Compile Include="视图管理器.TcVMO">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DUTs" />
